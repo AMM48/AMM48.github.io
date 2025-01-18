@@ -1,0 +1,26 @@
+[
+  {
+    "src": "assets/certificates/CKA.webp",
+    "alt": "CKA Certification"
+  },
+  {
+    "src": "assets/certificates/CCNA.webp",
+    "alt": "CCNA Certification"
+  },
+  {
+    "src": "assets/certificates/AWS-SAA.webp",
+    "alt": "AWS Solutions Architect Associate Certification"
+  },
+  {
+    "src": "assets/certificates/AWS-Cloud-Practitioner.webp",
+    "alt": "AWS Cloud Practitioner Certification"
+  },
+  {
+    "src": "assets/certificates/NPlus.webp",
+    "alt": "CompTIA Network+ Certification"
+  },
+  {
+    "src": "assets/certificates/APlus.webp",
+    "alt": "CompTIA A+ Certification"
+  }
+]
